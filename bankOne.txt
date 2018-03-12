@@ -1,0 +1,5 @@
+Financial Analysis 
+Total Months: 41
+Total Revenue: 18971412
+max change in revenue: 1779747min change in revenue: -1837235
+average change in month to month revenue: 0
